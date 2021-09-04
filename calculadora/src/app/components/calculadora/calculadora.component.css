@@ -1,0 +1,19 @@
+form {
+    margin-top: 2rem;
+}
+
+.kz-btn {
+    width: 90%;
+    margin: 0.28rem;
+}
+.kz-input-text {
+    margin-top: 0.21rem;
+    width:96%;
+	margin-left:0.42rem;
+}
+.kz-pad-20 {
+	padding: 1.42rem;
+}
+.col-xs-3, .col-xs-9 {
+	padding: 0px;
+}
